@@ -1,5 +1,5 @@
 <h1 style="font-weight:bold;" align="center">Hllo👻, I'm     <a href="https://Gouenjix.github.io/my-portfolio/"> Vikram</a> </h1>
-<h2 align="center">An enthusiastic Programmer from India...  </h2>
+<h2 align="center">I love to code, I'm not consistent sometimes, but just trying to improve myself. A self starter who Loves to CODE. I'm a fast learner, trying to learn new things. Looking forward to collaborate & learn new stuff.  </h2>
 </br>
 
 <div>
