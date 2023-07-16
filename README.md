@@ -40,6 +40,7 @@
    <a href=" https://in.mathworks.com/products/matlab.html " target="_blank"> <img src="https://img.icons8.com/?size=48&id=r5Y16PcDkoWI&format=png"/> </a> 
    <a href=" https://www.kicad.org/ " target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/120px-KiCad-Logo.svg.png"/> </a>
    <a href=" https://git-scm.com/ " target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+   <img src="https://img.icons8.com/color/48/000000/github.png" width="45" height="45"/>
 </div>
 
 <br/>
@@ -70,17 +71,59 @@
 </br>
 
 <div>
-<a href = "www.linkedin.com/in/vikramsingh01"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://dev.to/abhishekrajputweb" target="_blank"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV.to" style="width:50px;height:40px;margin-bottom:2px"></a>
-<a href="https://codepen.io/Abhi7raj"><img src="https://img.icons8.com/ios-filled/44/ffffff/codepen.png"/></a>
-<a href = "https://twitter.com/Abhishe67477825"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCioHnhJIVj82Uynvk2hs5jQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://dribbble.com/abhishek-web">
-<img src="https://img.icons8.com/glyph-neue/48/FA669A/dribbble.png"/>
-<a href="https://pixabay.com/users/abhishekrajputcr7-21621732/">
-<img src="https://img.icons8.com/color/46/null/pixabay.png"/>
+<a href = "https://www.linkedin.com/in/vikramsingh01/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/xGouenjix?s=09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/gouenjixx/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.hackerrank.com/vikrams0654"><img src="https://img.icons8.com/?size=48&id=h5EUmNCXhSH0&format=png"/></a>
 </a>
 </div>
+</br>
+
+
+## 👷‍♂️ My Work & Projects:
+</br>
+
+<div>
+  <!--
+    <a href="https://react-youtube-app-clone.netlify.app">
+    <img src="https://i.imgur.com/mMPoUP7.jpg" width="30%"> 
+    </a>
+    <a href="https://songs-search-app.netlify.app">
+    <img src="https://i.imgur.com/n0qOi5q.jpg" width=30%;> 
+    </a>
+    <a href="https://film-relic.netlify.app">
+    <img src="https://i.imgur.com/wJngou5.jpg" width=30%;>
+    </a>
+    <a href="https://react-gym-exercises-app.netlify.app">
+    <img src="https://i.imgur.com/cBeesua.jpg" width=30%;>
+    </a>
+    <a href="https://shopnow-e-commerce-website.netlify.app">
+    <img src="https://i.imgur.com/VJTvCip.jpg" width=30%;>
+    </a>
+    <a href="https://responsive-game-website.netlify.app">
+    <img src="https://i.imgur.com/vP62BaX.jpg" width=30%>
+    </a>
+    -->
+</div>
+</br>
+
+
+## 🥉 My Certifications And Liscense:
+</br>
+<div>
+    <a href="https://www.hackerrank.com/certificates/5995f5ec59da">
+    <img src="https://imgur.com/riz9qaz.png" width=30%>
+    </a>
+    <a href="https://www.hackerrank.com/certificates/6163efe5795e">
+    <img src="https://i.imgur.com/GMxk3Fh.png" width=30%>
+    </a>
+    <a href="https://drive.google.com/file/d/167RS4rnie8fy44wubWAMGd3t3axM-KWc/view">
+    <img src="https://i.imgur.com/PIzR3o3.png" width=30%>
+    </a>
+    
+
+</div>
+
+</br>
 </br>
 
