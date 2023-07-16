@@ -83,34 +83,6 @@
 </br>
 
 
-## 👷‍♂️ My Work & Projects:
-</br>
-
-<div>
-  <!--
-    <a href="https://react-youtube-app-clone.netlify.app">
-    <img src="https://i.imgur.com/mMPoUP7.jpg" width="30%"> 
-    </a>
-    <a href="https://songs-search-app.netlify.app">
-    <img src="https://i.imgur.com/n0qOi5q.jpg" width=30%;> 
-    </a>
-    <a href="https://film-relic.netlify.app">
-    <img src="https://i.imgur.com/wJngou5.jpg" width=30%;>
-    </a>
-    <a href="https://react-gym-exercises-app.netlify.app">
-    <img src="https://i.imgur.com/cBeesua.jpg" width=30%;>
-    </a>
-    <a href="https://shopnow-e-commerce-website.netlify.app">
-    <img src="https://i.imgur.com/VJTvCip.jpg" width=30%;>
-    </a>
-    <a href="https://responsive-game-website.netlify.app">
-    <img src="https://i.imgur.com/vP62BaX.jpg" width=30%>
-    </a>
-    -->
-</div>
-</br>
-
-
 ## 🥉 My Certifications And Liscense:
 </br>
 <div>
