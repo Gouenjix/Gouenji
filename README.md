@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vikrams0654@gmail.com**
 
-- ⚡ Hobbies And Interest :  **I like to Listen Music, Play Computer-Games and Exploring CyberSec domain**
+- ⚡ Hobbies And Interest :  **I enjoy playing Computer games, listening to music, and exploring the domain of cybersecurity**
 
 - ❤️ I love Football ⚽
 
