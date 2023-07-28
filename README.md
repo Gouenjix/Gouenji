@@ -2,7 +2,6 @@
 </br>
 <h2 align="center">I love programming, I'm not consistent sometimes, but just trying to improve myself. A fast learner, trying to learn new things. Looking forward to collaborate & learn new stuff.. </h2>
 </br>
-</br>
 
 <div>
 
