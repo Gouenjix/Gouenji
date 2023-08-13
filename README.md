@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Desinging a Flipper-Zero**
+- 🔭 I’m currently working on **AVR Programming **
 
 - 🌱 I’m currently learning **KiCad Designing**
   
