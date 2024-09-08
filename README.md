@@ -17,27 +17,19 @@ Explore some of my beginner-friendly projects below:
 ### 🔍 **Simple Port Scanner**
 - **Description:** A Python script for scanning a range of IP addresses for open ports.
 - **Key Features:** Multi-threaded scanning, customizable IP range and port list, CSV export.
-- **Repository:** [GitHub Link](https://github.com/[YourUsername]/simple-port-scanner)
 
 ### 🔎 **Basic Web Vulnerability Scanner**
 - **Description:** A tool for detecting basic vulnerabilities in web applications.
 - **Key Features:** Identifies common vulnerabilities, generates simple reports.
-- **Repository:** [GitHub Link](https://github.com/[YourUsername]/basic-web-vuln-scanner)
 
 ### 🌐 **Network Scanner**
 - **Description:** A tool for discovering devices on a network and mapping IP addresses.
 - **Key Features:** Basic device discovery, network mapping.
-- **Repository:** [GitHub Link](https://github.com/[YourUsername]/network-scanner)
 
 ### 📊 **Traffic Sniffer**
 - **Description:** A basic packet sniffer for capturing and analyzing network traffic.
 - **Key Features:** Captures packets, simple filtering and display.
-- **Repository:** [GitHub Link](https://github.com/[YourUsername]/traffic-sniffer)
 
-### 📚 **Cybersecurity Tutorials**
-- **Description:** A collection of beginner-friendly tutorials on various cybersecurity topics.
-- **Key Features:** Detailed guides, practical examples, and screenshots.
-- **Repository:** [GitHub Link](https://github.com/[YourUsername]/cybersecurity-tutorials)
 
 ## 📬 Contact Me
 
