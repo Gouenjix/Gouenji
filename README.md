@@ -49,5 +49,5 @@ Thanks for visiting my profile! 😊
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-%20-blue?logo=tryhackme&logoColor=white)
-![TryHackMe](https://tryhackme.com/badge/123456)
+![TryHackMe](https://tryhackme.com/badge/2317238)
 ![HTB](https://img.shields.io/badge/HTB-<YOUR_SCORE>-blue?logo=hack-the-box&logoColor=white) <!-- Replace <YOUR_SCORE> with your HTB rank or score -->
