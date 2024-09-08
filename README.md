@@ -1,57 +1,52 @@
-# Welcome to [Your Name]'s GitHub Profile!
+# 👋 Welcome
 
-## About Me
+Hello! I’m **Gouenji**, an aspiring cybersecurity enthusiast eager to dive into the world of security and hacking. I’m working on enhancing my skills through hands-on projects and learning. My focus areas include penetration testing, web application security, and network security.
 
-👋 Hello! I'm [Your Name], a cybersecurity enthusiast with a growing skill set in the field of ethical hacking and security research. I have hands-on experience with penetration testing, vulnerability analysis, and network security. I’m passionate about discovering vulnerabilities and developing tools that enhance digital safety.
+### 🔧 **Skills & Expertise:**
+- **Penetration Testing:** 🛠️ Experienced with tools like Metasploit and Nmap.
+- **Programming:** 💻 Proficient in Python and Bash scripting.
+- **Web Security:** 🌐 Skilled in detecting and mitigating web vulnerabilities.
+- **Network Security:** 🔍 Knowledgeable in network scanning and traffic analysis.
+- **Malware Analysis:** 🕵️ Basics of reverse engineering and behavioral analysis.
 
-## Skills & Expertise
+## 🚀 Projects
 
-- **Penetration Testing:** Expertise in performing comprehensive security assessments using tools like Metasploit, Nmap, and Burp Suite.
-- **Programming Languages:** Proficient in Python and Bash scripting for creating automation tools and custom security solutions.
-- **Vulnerability Analysis:** Skilled in identifying and analyzing security flaws in various systems and applications.
-- **Network Security:** Experienced in network scanning, traffic analysis, and implementing security measures to protect network infrastructures.
-- **Malware Analysis:** Knowledgeable in reverse engineering and analyzing malware samples to understand their behavior and mitigate threats.
+Explore some of my beginner-friendly projects below:
 
-## Projects
+### 🔍 **Simple Port Scanner**
+- **Description:** A Python script for scanning a range of IP addresses for open ports.
+- **Key Features:** Multi-threaded scanning, customizable IP range and port list, CSV export.
 
-Here are some projects that showcase my work in cybersecurity:
+### 🔎 **Basic Web Vulnerability Scanner**
+- **Description:** A tool for detecting basic vulnerabilities in web applications.
+- **Key Features:** Identifies common vulnerabilities, generates simple reports.
 
-### 1. **Custom Penetration Testing Tools**
-   - **Port Scanner:** A Python-based script to scan IP ranges for open ports and services.
-   - **Vulnerability Scanner:** A tool to identify common vulnerabilities in web applications and networks.
+### 🌐 **Network Scanner**
+- **Description:** A tool for discovering devices on a network and mapping IP addresses.
+- **Key Features:** Basic device discovery, network mapping.
 
-### 2. **Exploit Development**
-   - **Proof-of-Concept Exploits:** Detailed PoC exploits for known vulnerabilities, with explanations and mitigations.
+### 📊 **Traffic Sniffer**
+- **Description:** A basic packet sniffer for capturing and analyzing network traffic.
+- **Key Features:** Captures packets, simple filtering and display.
 
-### 3. **CTF Challenges**
-   - **Challenge Solutions:** Write-ups and solutions for various Capture The Flag (CTF) challenges, including the approach and tools used.
+### 📚 **Cybersecurity Tutorials**
+- **Description:** A collection of beginner-friendly tutorials on various cybersecurity topics.
+- **Key Features:** Detailed guides, practical examples, and screenshots.
 
-### 4. **Web Application Security**
-   - **Web Security Scanner:** A tool to detect vulnerabilities such as SQL Injection, XSS, and CSRF in web applications.
-   - **Burp Suite Extensions:** Custom extensions for Burp Suite to enhance web security testing capabilities.
+## 📬 Contact Me
 
-### 5. **Malware Analysis**
-   - **Malware Reports:** Detailed analysis reports on various malware samples, including behavioral analysis and detection methods.
-   - **Sandbox Tools:** Tools for automating the analysis of malware in a secure sandbox environment.
-
-### 6. **Network Security Tools**
-   - **Network Mapper:** A tool to map network topologies and discover connected devices.
-   - **Traffic Analyzer:** Scripts for analyzing network traffic to identify potential security issues.
-
-### 7. **Security Automation**
-   - **Log Analysis Scripts:** Automation scripts for parsing and analyzing security logs to detect anomalies.
-   - **SIEM Integration:** Scripts and tools for integrating with SIEM systems to automate security monitoring and alerting.
-
-### 8. **Educational Resources**
-   - **Tutorials & Guides:** Comprehensive guides on various cybersecurity topics, including tool usage and security practices.
-   - **Vulnerable Applications:** Intentionally vulnerable applications designed for learning and practice in cybersecurity.
-
-## Contact
-
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about cybersecurity!
+Feel free to reach out if you have any questions or want to connect!
 
 - **LinkedIn:** [Your LinkedIn Profile](#)
 - **Email:** [your-email@example.com](mailto:your-email@example.com)
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! 😊
 
+---
+
+## 🎨 Badges
+
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-%20-blue?logo=tryhackme&logoColor=white) <!-- Replace with your actual badge ID -->
+![HTB](https://img.shields.io/badge/HTB-<YOUR_SCORE>-blue?logo=hack-the-box&logoColor=white) <!-- Replace <YOUR_SCORE> with your HTB rank or score -->
