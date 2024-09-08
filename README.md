@@ -47,8 +47,8 @@ Thanks for visiting my profile! 😊
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square&labelColor=blue)
 ![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=flat-square&labelColor=blue)
-![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white&style=flat-square&labelColor=black)
-![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&logoColor=white&style=flat-square&labelColor=black)
+![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&logoColor=white&style=flat-square&labelColor=blue)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white&style=flat-square&labelColor=red)
 
 ### TryHackMe & HTB
 <img src="https://tryhackme-badges.s3.amazonaws.com/wraithxD.png" alt="TryHackMe" width="160"/>
