@@ -1,8 +1,9 @@
-# 👋 Welcome to [Your Name]'s GitHub Profile!
+# 👋 Welcome
 
-## 🌟 About Me
+Hello! I’m **Gouenji**, an aspiring cybersecurity enthusiast eager to dive into the world of security and hacking. I’m working on enhancing my skills through hands-on projects and learning. My focus areas include penetration testing, web application security, and network security.
 
-Hello! I’m **[Your Name]**, an aspiring cybersecurity enthusiast eager to dive into the world of security and hacking. I’m working on enhancing my skills through hands-on projects and learning. My focus areas include penetration testing, web application security, and network security.
+Hello! I’m **Gouenji** — a passionate cybersecurity enthusiast with a keen interest in both **offensive** and **defensive** security. 🚀 My journey spans **penetration testing**, where I explore and uncover vulnerabilities, and **blue teaming**, where I focus on fortifying defenses and responding to threats. 🛡️
+
 
 ### 🔧 **Skills & Expertise:**
 - **Penetration Testing:** 🛠️ Experienced with tools like Metasploit and Nmap.
@@ -55,6 +56,8 @@ Thanks for visiting my profile! 😊
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square&labelColor=blue)
+![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=flat-square&labelColor=blue)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white&style=flat-square&labelColor=black)
 ![Bash](https://img.shields.io/badge/-Bash-black?logo=gnu-bash&logoColor=white&style=flat-square&labelColor=black)
 
 ### TryHackMe & HTB
@@ -64,6 +67,6 @@ Thanks for visiting my profile! 😊
 -->
 <!--
 ### GitHub Language Stats
-![Top Languages](https://img.shields.io/github/languages/top/[YourUsername]/[YourRepoName]?style=flat-square) <!-- Replace [YourRepoName] with a repo to display top languages -->
-![Most Used Languages](https://img.shields.io/github/languages/count/[YourUsername]/[YourRepoName]?style=flat-square) <!-- Replace [YourRepoName] with a repo to display language count-->
+![Top Languages](https://img.shields.io/github/languages/top/[YourUsername]/[YourRepoName]?style=flat-square) <!-- Replace [YourRepoName] with a repo to display top languages
+![Most Used Languages](https://img.shields.io/github/languages/count/[YourUsername]/[YourRepoName]?style=flat-square) <!-- Replace [YourRepoName] with a repo to display language count
 -->
