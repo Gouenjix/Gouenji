@@ -1,8 +1,6 @@
 # 👋 Welcome
 
-Hello! I’m **Gouenji**, an aspiring cybersecurity enthusiast eager to dive into the world of security and hacking. I’m working on enhancing my skills through hands-on projects and learning. My focus areas include penetration testing, web application security, and network security.
-
-Hello! I’m **Gouenji** — a passionate cybersecurity enthusiast with a keen interest in both **offensive** and **defensive** security. 🚀 My journey spans **penetration testing**, where I explore and uncover vulnerabilities, and **blue teaming**, where I focus on fortifying defenses and responding to threats. 🛡️
+Hello! I’m **Gouenji**, an aspiring cybersecurity enthusiast eager to dive into the world of security and hacking. I’m working on enhancing my skills through hands-on projects and learning. My focus areas include **penetration testing**, **web application security**, **network security**, and **SOC Analyst** roles, where I’m interested in monitoring, detecting, and responding to security incidents. 🌐🔍🛡️☠️
 
 
 ### 🔧 **Skills & Expertise:**
