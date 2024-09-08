@@ -59,8 +59,9 @@ Thanks for visiting my profile! 😊
 
 ### TryHackMe & HTB
 <img src="https://tryhackme-badges.s3.amazonaws.com/wraithxD.png" alt="TryHackMe" width="160"/>
+<!--
 ![HTB](https://img.shields.io/badge/HTB-<YOUR_SCORE>-blue?logo=hack-the-box&logoColor=white)
-
+-->
 <!--
 ### GitHub Language Stats
 ![Top Languages](https://img.shields.io/github/languages/top/[YourUsername]/[YourRepoName]?style=flat-square) <!-- Replace [YourRepoName] with a repo to display top languages -->
