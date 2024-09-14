@@ -35,8 +35,8 @@ Explore some of my beginner-friendly projects below:
 
 Feel free to reach out if you have any questions or want to connect!
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vikramsingh01)
-- **Email:** [here](vikrams0654@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/vikramsingh01)
+- [**Email Me**](mailto:vikrams0654@gmail.com)
 
 Thanks for visiting my profile! 😊
 
